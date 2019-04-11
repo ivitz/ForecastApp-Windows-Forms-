@@ -1,0 +1,17 @@
+E:\Users\vict\Documents\Visual Studio 2017\Projects\ForecastApp\ForecastApp\bin\Debug\ForecastApp.exe.config
+E:\Users\vict\Documents\Visual Studio 2017\Projects\ForecastApp\ForecastApp\bin\Debug\ForecastApp.exe
+E:\Users\vict\Documents\Visual Studio 2017\Projects\ForecastApp\ForecastApp\bin\Debug\ForecastApp.pdb
+E:\Users\vict\Documents\Visual Studio 2017\Projects\ForecastApp\ForecastApp\bin\Debug\Newtonsoft.Json.dll
+E:\Users\vict\Documents\Visual Studio 2017\Projects\ForecastApp\ForecastApp\bin\Debug\Newtonsoft.Json.pdb
+E:\Users\vict\Documents\Visual Studio 2017\Projects\ForecastApp\ForecastApp\bin\Debug\Newtonsoft.Json.xml
+E:\Users\vict\Documents\Visual Studio 2017\Projects\ForecastApp\ForecastApp\obj\Debug\ForecastApp.csprojResolveAssemblyReference.cache
+E:\Users\vict\Documents\Visual Studio 2017\Projects\ForecastApp\ForecastApp\obj\Debug\ForecastApp.Form1.resources
+E:\Users\vict\Documents\Visual Studio 2017\Projects\ForecastApp\ForecastApp\obj\Debug\ForecastApp.Properties.Resources.resources
+E:\Users\vict\Documents\Visual Studio 2017\Projects\ForecastApp\ForecastApp\obj\Debug\ForecastApp.csproj.GenerateResource.Cache
+E:\Users\vict\Documents\Visual Studio 2017\Projects\ForecastApp\ForecastApp\obj\Debug\ForecastApp.csproj.CoreCompileInputs.cache
+E:\Users\vict\Documents\Visual Studio 2017\Projects\ForecastApp\ForecastApp\obj\Debug\ForecastApp.exe
+E:\Users\vict\Documents\Visual Studio 2017\Projects\ForecastApp\ForecastApp\obj\Debug\ForecastApp.pdb
+E:\Users\vict\Documents\Visual Studio 2017\Projects\ForecastApp\ForecastApp\bin\Debug\ForecastApp.exe.manifest
+E:\Users\vict\Documents\Visual Studio 2017\Projects\ForecastApp\ForecastApp\bin\Debug\ForecastApp.application
+E:\Users\vict\Documents\Visual Studio 2017\Projects\ForecastApp\ForecastApp\obj\Debug\ForecastApp.exe.manifest
+E:\Users\vict\Documents\Visual Studio 2017\Projects\ForecastApp\ForecastApp\obj\Debug\ForecastApp.application
